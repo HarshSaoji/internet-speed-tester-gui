@@ -71,7 +71,7 @@ python speed_tester_gui.py
 
 ```
 internet-speed-tester-gui/
-├── 005_Test_Internet_Speed.ipynb   # Main Jupyter Notebook
+├── Test_Internet_Speed.ipynb       # Main Jupyter Notebook
 ├── speed.ico                       # (Optional) Icon for GUI window
 ├── screenshot.png                  # (Optional) GUI preview image
 ├── README.md                       # Project documentation
@@ -131,6 +131,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Harsh Saoji**  
-_BTech CSE (Data Science) | Event Head | Web Development Trainee @ Sensors & Systems Industrial Solutions_
+_BTech CSE (Data Science) 
 
 > For queries or collaborations, feel free to connect on [LinkedIn](https://linkedin.com) or raise an issue on GitHub.
