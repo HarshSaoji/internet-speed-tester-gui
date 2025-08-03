@@ -1,7 +1,8 @@
 
 # 🚀 Internet Speed Tester GUI using Python
 
-A simple yet powerful GUI-based Internet Speed Tester built with Python's `Tkinter` library and `speedtest-cli`. This app measures your **download speed**, **upload speed**, and **ping**, all within a clean graphical interface.
+A sleek and user-friendly GUI Internet Speed Tester built using Python’s Tkinter and speedtest-cli. It quickly measures download and upload speeds, along with ping, all within a simple graphical interface. Ideal for users who want a lightweight, no-code solution to check their internet performance effortlessly.
+
 
 ---
 
