@@ -132,6 +132,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Harsh Saoji**  
- BTech CSE (Data Science) 
+ B.Tech CSE (Data Science) 
 
 > For queries or collaborations, feel free to connect on [LinkedIn](https://linkedin.com) or raise an issue on GitHub.
